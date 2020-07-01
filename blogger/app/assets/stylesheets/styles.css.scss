@@ -30,6 +30,12 @@ a {
   margin-top: 20px;
 }
 
+img {
+  object-fit: contain;
+  width: 75%;
+  height: auto;
+}
+
 #content {
   clear: both;
   padding-top: 20px;
